@@ -1,0 +1,26 @@
+{
+    "infos": {
+        "title": "My awesome workshop",
+        "github": "https://github.com/awesomeperson/my-awesome-workshop/",
+        "description": "This workshop will teach you all you need to know to master xxx"
+    },
+    "authors": [
+        {
+            "name": "Awesome person",
+            "url": "https://twitter.com/awesomeperson",
+            "avatar": "awesomeperson.jfif"
+        }
+    ],
+    "resources": [
+        {
+            "label": "Resource to download",
+            "type": "fas fa-download",
+            "link": "https://github.com/tagazok/my-workshops/raw/master/static-web-apps/data/xxx.zip"
+        },
+        {
+            "label": "Resource to watch",
+            "type": "fab fa-youtube",
+            "link": "https://www.youtube.com/c/MSDeveloppeurs"
+        }
+    ]
+}
